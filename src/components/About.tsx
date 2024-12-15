@@ -4,9 +4,9 @@ import { Target, Users2, Globe2 } from 'lucide-react';
 const About = () => {
   const stats = [
     { label: 'Global Offices', value: '12+' },
-    { label: 'Team Members', value: '250+' },
-    { label: 'Annual Revenue', value: '$500M+' },
-    { label: 'Partner Network', value: '1000+' }
+    { label: 'Team Members', value: '80+' },
+    { label: 'Annual Revenue', value: '$50M+' },
+    { label: 'Partner Network', value: '60+' }
   ];
 
   const values = [
